@@ -1,0 +1,1 @@
+<view class="emailInfo"><form><input type="text" placeholder="请输入Email"/><input type="text" placeholder="请输入验证码"/><input type="submit" value="提交"/></form></view>

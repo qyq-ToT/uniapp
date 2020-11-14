@@ -1,0 +1,1 @@
+<view><input data-event-opts="{{[['input',[['__set_model',['','username','$event',[]]]]]]}}" class="nameLine" value="{{username}}" bindinput="__e"/></view>

@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/userinfo/userinfo",
+    "pages/integralInfo/integralInfo",
+    "pages/integralShop/integralShop",
+    "pages/updateName/updateName",
+    "pages/emailInfo/emailInfo",
+    "pages/updatePwd/updatePwd",
+    "pages/safetyProblem/safetyProblem"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}
